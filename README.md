@@ -90,6 +90,3 @@ The goal is to uncover trends, compare infection and death rates, evaluate vacci
 
 This project demonstrates how raw COVID-19 datasets can be transformed into actionable insights using only SQL. The final cleaned data and views are ready for integration into Power BI dashboards to support data-driven public health decisions.
 
----
-
-Let me know if you'd like a Markdown-formatted version or want to combine this project with Power BI visuals in the same repo!
